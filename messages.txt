@@ -1,0 +1,4 @@
+Peter~S1~This is my first message!
+Joe~S2~Here is another message for the message board!
+Glenn~S3~It's sunny outside today.
+Clevland~S4~This is the last message for the message board.
